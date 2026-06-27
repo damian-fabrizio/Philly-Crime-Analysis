@@ -8,6 +8,7 @@ https://public.tableau.com/app/profile/damian.fabrizio/viz/PhiladelphiaCrime_178
 https://public.tableau.com/app/profile/damian.fabrizio/viz/PhillyCrimeSeasonalTrends/SidebySideComparison
 <img width="1213" height="673" alt="image" src="https://github.com/user-attachments/assets/a3c6f0f5-eb46-483e-8010-bbdbc7e4f51f" />
 ---
+
 ## Tools/Skills Utilized
 - R in Rstudio
 - PostgreSQL in Visual Studio Code
