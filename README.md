@@ -27,6 +27,7 @@ Since 2006:
 
 **Categories with sudden and significant spikes**
 - Armed Robbery:
+
   Experienced 62.85% decline from 2006-2020, then sudden 58.67% increase in 2021-2022 before falling to all time low by 2025
 - Homicide:
   Stagnant from 2006-2019 before a 59.14% spike from 2019 to 2021, followed by a sharp 63.01% drop from 2021-2025
