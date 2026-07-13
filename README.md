@@ -16,6 +16,7 @@ https://public.tableau.com/app/profile/damian.fabrizio/viz/PhillyCrimeSeasonalTr
 ## Findings
 
 **Steady decline from 2006-2025**
+
 Since 2006:
 Unarmed Robbery - Down 60.81% 
 Burglary - Down 60.76% 
