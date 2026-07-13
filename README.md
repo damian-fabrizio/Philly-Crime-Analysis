@@ -18,12 +18,12 @@ https://public.tableau.com/app/profile/damian.fabrizio/viz/PhillyCrimeSeasonalTr
 **Steady decline from 2006-2025**
 
 Since 2006:
-Unarmed Robbery - Down 60.81% 
-Burglary - Down 60.76% 
-Sexual Assault/Rape - Down 42.06% 
-DUI - Down 82.43%
-Drug Activity - Down 81.70%
-Vandalism/Criminal Mischief - Down 46.52% 
+- Unarmed Robbery - Down 60.81% 
+- Burglary - Down 60.76% 
+- Sexual Assault/Rape - Down 42.06% 
+- DUI - Down 82.43%
+- Drug Activity - Down 81.70%
+- Vandalism/Criminal Mischief - Down 46.52% 
 
 **Categories with sudden and significant spikes**
 Armed Robbery:
@@ -36,9 +36,9 @@ Motor Vehicle Theft:
 - Largely consistent with minor spikes in 2010-2011, maintained consitent annual lows from 2014-2020, before dramatic and unprecedented 764% increase from 2020 to 2023 peak since seeing a slight decline but still very high volume compared to pre 2023 numbers. Largely attributed to the 2022-2023 "Kia Boys" trend where manufacturing flaws in common vehicles such as Kias were exploited and shared across social media
 
 **Generally stagnant categories**
-Aggravated Assault
-Assault
-Arson
+- Aggravated Assault
+- Assault
+- Arson
 
 
 ## Tools/Skills Utilized
