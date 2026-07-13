@@ -6,6 +6,7 @@ End to end spatial analysis of the past 20 years of crime in the city of Philade
 1. Interactive and filterable citywide map:
 https://public.tableau.com/app/profile/damian.fabrizio/viz/PhiladelphiaCrime_17825128446760/MainMap
 <img width="650" height="366" alt="image" src="https://github.com/user-attachments/assets/b9ee9412-06a8-41c6-8e2d-886cf084d752" />
+
 2. Side by side seasonal comparison for key crime types
 https://public.tableau.com/app/profile/damian.fabrizio/viz/PhillyCrimeSeasonalTrends/SidebySideComparison
 <img width="650" height="366" alt="image" src="https://github.com/user-attachments/assets/a3c6f0f5-eb46-483e-8010-bbdbc7e4f51f" />
