@@ -40,7 +40,7 @@ Since 2006:
   
 - Motor Vehicle Theft:
 
-  Largely consistent with minor spikes in 2010-2011, maintained consitent annual lows from 2014-2020, before dramatic and unprecedented 764% increase from 2020 to 2023 peak        since seeing a slight decline but still very high volume compared to pre 2023 numbers. Largely attributed to the 2022-2023 "Kia Boys" trend where manufacturing flaws in common   vehicles such as Kias were exploited and shared across social media
+  Largely consistent with minor spikes in 2010-2011, maintained consitent annual lows from 2014-2020, before dramatic and unprecedented 764% increase from 2020 to 2023 peak. Has   since seen a slight decline but still very high volume compared to pre 2023 numbers. Largely attributed to the 2022-2023 "Kia Boys" trend where manufacturing flaws in            common vehicles such as Kias were exploited and shared across social media
 
 **Generally stagnant categories**
 - Aggravated Assault
